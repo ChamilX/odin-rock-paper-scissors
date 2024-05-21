@@ -2,7 +2,7 @@
 
 ## Update (20 May 2024)
 
-Added some DOM manipulation and some basic UI, now instead of using the console, you use buttons to select your answer and the score displays on the page. I also removed the `playGame()` function, changed the `playRound()` function, the code was too long before :sweat_smile:, and added the `gameOver()` function to handle the score conditions.
+Added some DOM manipulation and some basic UI, now instead of using the console, you use buttons to select your answer and the score displays on the page. I also removed the `playGame()` function, changed the `playRound()` function (the code was too long before :sweat_smile:), and added the `gameOver()` function to handle the score conditions.
 
 ### playRound() Before
 
